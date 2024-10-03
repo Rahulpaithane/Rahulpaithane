@@ -5,7 +5,7 @@
 
 
 ## 🚀 Summary
-Passionate Full Stack Developer with 1.5+ years of hands-on experience.
+Passionate Full Stack Developer with 2+ years of hands-on experience.
 
 ## 🎓 Education
 - 💻 Bachelor of Engineering in Computer Science
